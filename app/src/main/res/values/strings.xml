@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="menu">
+        <item>brik</item>
+        <item>couscous</item>
+        <item>molokheya</item>
+        <item>ojja</item>
+    </string-array>
+    <string-array name="decription">
+        <item>c est la recette</item>
+        <item>c est la recette</item>
+        <item>c est la recette</item>
+        <item>c est la recette</item>
+    </string-array>
+</resources>
